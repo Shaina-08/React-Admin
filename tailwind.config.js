@@ -43,7 +43,7 @@ export default {
       backgroundImage: {
         'hero-pattern':
          
-          "url('georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg')",
+          "url("georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg")",
           // "url('desktop-wallpaper-work-space-backgrounds-work-space-thumbnail.jpg')",
           
           
